@@ -1,0 +1,9 @@
+First install python from python.org | On linux python is already installed
+
+Open the installer 
+
+Make sure to to check Add Python3.9 to path 
+
+After installing open cmd/powershell/terminal/bash 
+
+then write pip install pygame | On linux/Osx write pip3 install pygame 
